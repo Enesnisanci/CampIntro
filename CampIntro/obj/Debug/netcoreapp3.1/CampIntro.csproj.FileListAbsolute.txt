@@ -1,0 +1,13 @@
+C:\Users\Smile\source\repos\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.exe
+C:\Users\Smile\source\repos\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.deps.json
+C:\Users\Smile\source\repos\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.runtimeconfig.json
+C:\Users\Smile\source\repos\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.runtimeconfig.dev.json
+C:\Users\Smile\source\repos\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.dll
+C:\Users\Smile\source\repos\CampIntro\CampIntro\bin\Debug\netcoreapp3.1\CampIntro.pdb
+C:\Users\Smile\source\repos\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.csprojAssemblyReference.cache
+C:\Users\Smile\source\repos\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.csproj.CoreCompileInputs.cache
+C:\Users\Smile\source\repos\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.AssemblyInfoInputs.cache
+C:\Users\Smile\source\repos\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.AssemblyInfo.cs
+C:\Users\Smile\source\repos\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.dll
+C:\Users\Smile\source\repos\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.pdb
+C:\Users\Smile\source\repos\CampIntro\CampIntro\obj\Debug\netcoreapp3.1\CampIntro.genruntimeconfig.cache

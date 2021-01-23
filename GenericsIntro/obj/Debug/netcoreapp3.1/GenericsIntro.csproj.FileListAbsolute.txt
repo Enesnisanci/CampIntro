@@ -1,0 +1,13 @@
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
+C:\Users\Smile\source\repos\CampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache

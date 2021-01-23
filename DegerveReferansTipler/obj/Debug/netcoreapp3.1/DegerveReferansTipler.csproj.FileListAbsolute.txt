@@ -1,0 +1,12 @@
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.exe
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.deps.json
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.runtimeconfig.json
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.runtimeconfig.dev.json
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.dll
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\bin\Debug\netcoreapp3.1\DegerveReferansTipler.pdb
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.AssemblyInfoInputs.cache
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.AssemblyInfo.cs
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.dll
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.pdb
+C:\Users\Smile\source\repos\CampIntro\DegerveReferansTipler\obj\Debug\netcoreapp3.1\DegerveReferansTipler.genruntimeconfig.cache
